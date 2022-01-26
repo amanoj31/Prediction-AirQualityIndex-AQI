@@ -1,6 +1,4 @@
-# Prediction-AirQualityIndex-AQI
-
-## Predicting the Air Quality Index of 100+ counties across the USA
+# Predicting the Air Quality Index of 100+ counties across the USA
 
 Aim: predict the concentration of different pollutants in the atmosphere, compute AQI across different US regions, and present the trends using interactive visualizations. We aim to provide dynamic, interactive visualization of AQI and pollutant concentrations with personal health recommendations directly to the user’s inbox.
 
